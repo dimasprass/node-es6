@@ -1,0 +1,32 @@
+{
+  "name": "node-es6",
+  "version": "1.0.0",
+  "description": "Node es6 way",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/opam22/node-es6.git"
+  },
+  "keywords": [
+    "node",
+    "es6"
+  ],
+  "author": "Pramesti Hatta K.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opam22/node-es6/issues"
+  },
+  "homepage": "https://github.com/opam22/node-es6#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}

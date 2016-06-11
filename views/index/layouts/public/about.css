@@ -1,0 +1,40 @@
+<style>
+table, td, th {
+	border: 2px solid blue;
+	background: #f2f2f2;
+}
+	table {
+		border-collapse: collapse;
+		width: 100%;
+	}
+	th {
+		height: 50px;
+
+	}
+</style>
+
+<h2>This Is Our Staff</h2>
+<p>BOTACT</p>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Dept</th>
+  </tr>
+  <tr>
+    <td>Kukuh Pradityo</td>
+    <td>Co Founder</td>
+  </tr>
+  <tr>
+    <td>Pramesti Hatta K</td>
+    <td>Software Engineering</td>
+  </tr>
+  <tr>
+    <td>Imam Syahru Ramadhana</td>
+    <td>Software Engineering</td>
+  </tr>
+  <tr>
+    <td>Dimas Prassatrio</td>
+    <td>Software Engineering</td>
+</tr>
+</table>
